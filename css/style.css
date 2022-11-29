@@ -1,0 +1,105 @@
+.fon{
+    background-color: rgb(47, 47, 47);
+}
+
+.sekil {
+    border-radius: 10%;
+    width: 290px;
+}
+
+.text1 {
+    color: white;
+    width: 600px;
+    text-align: left;
+    font-family:"Comic sans MS";
+    margin-top: -310px;
+    margin-left: 250px;
+    padding-left: 100px;
+
+    
+}
+
+.red{
+    color: red;
+
+}
+
+.text2{
+    color: white;
+    width: 600px;
+    text-align: justify;
+    font-family: "Comic sans MS";
+}
+
+.link{
+    border: none;
+    padding: 15px 20px;
+    color:red;
+    border-radius: 12px;
+    font-weight: 900;
+    
+}
+
+.ikinci{
+    margin-top: 30px;
+    margin-left: -500;
+    padding-left: 10px;
+   ;
+
+}
+
+.sekil2{
+    border-radius: 20px;
+    color: white;
+    width: 100%;
+    margin-left: -10px;
+    margin-right: 50px;
+    height: 400px;
+    background-image: url(uzun-pozlama-nedir-1.jpg);
+    background-size: cover;
+    text-align: justify;
+    
+}
+
+.text{
+    color: white;
+    text-align: left;
+    margin-top: -359px;
+    margin-left: 100px;
+
+}
+
+.buyutec
+{
+    position: relative;
+    transition: all .3s ease-in;
+    -moz-transition: all .3s ease-in;
+    -webkit-transition: all .3s ease-in;
+    -ms-transition: all .2s ease-in;
+  width: 250px;
+  float:left;
+  padding:1px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.buyutec:hover
+{
+    z-index:4;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);  
+    -moz-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+ul {overflow: hidden;}
+ul li {float: left;margin-right: 20px;}
+.clear {clear: both;}
+
+.text3{
+    font-size: 900;
+}
+
+
+
+
